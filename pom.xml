@@ -57,6 +57,13 @@
 			<artifactId>cucumber-extensions</artifactId>
 			<version>1.0</version>
 		</dependency>
+		
+		<dependency>
+  			<groupId>org.apache.maven.plugins</groupId>
+  			<artifactId>maven-compiler-plugin</artifactId>
+  			<version>3.1</version>
+  			<type>maven-plugin</type>
+		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-simple -->
 		<dependency>
